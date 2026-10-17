@@ -1,28 +1,23 @@
-Disciplina: **PPCA0049 - Cibersegurança 1**  
-Curso: **Doutorado Profissional em Computação Aplicada (PPCA)**  
-Instituição: **Universidade de Brasília (UnB)**  
-Departamento: **Ciência da Computação**  
-Professor Responsável: **Prof. Dr. Laerte Peotta de Melo**
-
----
-
 # PPCA0049 - Cibersegurança 1
 
-Repositório oficial da disciplina **PPCA0049 - Cibersegurança 1**, do Doutorado Profissional em Computação Aplicada (PPCA) da UnB, com foco em **cibercrime**, **ataques cibernéticos**, **guerra cibernética**, **fraudes digitais** e **Cyber Threat Intelligence (CTI)**.
+- **Instituição:** Universidade de Brasília (UnB)
+- **Departamento:** Departamento de Ciência da Computação (CIC)
+- **Curso:** Doutorado Profissional em Computação Aplicada (PPCA)
+- **Disciplina:** PPCA0049 - Cibersegurança 1
+- **Professor responsável:** Prof. Dr. Laerte Peotta de Melo
 
 ---
-
-## Ementa
+## 1. Ementa
 
 Estudo aprofundado da Cibersegurança sob uma perspectiva técnica, estratégica e interdisciplinar, com ênfase na compreensão do cibercrime contemporâneo, dos ataques cibernéticos, da guerra cibernética, das fraudes digitais complexas e da Cyber Threat Intelligence (CTI). Análise da evolução histórica e organizacional dos ecossistemas criminosos digitais, das ameaças patrocinadas por Estados, das operações híbridas e dos impactos sobre infraestruturas críticas, organizações e sociedade. Investigação das principais técnicas de engenharia social, fraude financeira, *account takeover*, biometria e uso de *deepfakes*, bem como dos mecanismos modernos de detecção, mitigação e resposta a incidentes. Estudo dos fundamentos, níveis e ciclo de vida da CTI, sua integração com operações de segurança e seu papel estratégico no apoio à tomada de decisão. Desenvolvimento de seminários temáticos voltados à análise crítica de casos reais, tendências emergentes e desafios atuais da Cibersegurança.
 
 ---
 
-## Objetivo Geral
+## 2. Objetivo Geral
 
 Capacitar o discente a compreender, analisar e aplicar conhecimentos avançados de Cibersegurança em contextos complexos e de alto risco, integrando pesquisa aplicada, inovação e prática profissional por meio de exposição de aulas, discussão acompanhada e seminários de projetos em desenvolvimento, com estímulo à comunicação científica, ao pensamento crítico e à avaliação colaborativa orientada ao aprimoramento metodológico, técnico e ao impacto prático das pesquisas.
 
-## Objetivos Específicos
+## 3. Objetivos Específicos
 
 - Compreender criticamente a evolução e a estrutura do cibercrime moderno.
 - Analisar técnicas, vetores e impactos dos principais ataques cibernéticos.
@@ -33,7 +28,7 @@ Capacitar o discente a compreender, analisar e aplicar conhecimentos avançados 
 
 ---
 
-## Conteúdo Programático
+## 4. Conteúdo Programático
 
 | Aula | Tema | Conteúdo |
 |:----:|:-----|:---------|
@@ -47,7 +42,7 @@ Capacitar o discente a compreender, analisar e aplicar conhecimentos avançados 
 
 ---
 
-## Metodologia
+## 5. Metodologia
 
 A disciplina é conduzida de forma dinâmica e participativa, combinando fundamentação teórica, análise de casos reais e atividades extraclasse. Cada módulo inclui a leitura crítica de pelo menos um artigo científico recente (últimos 5 anos) sobre o tema.
 
@@ -56,7 +51,7 @@ A disciplina é conduzida de forma dinâmica e participativa, combinando fundame
 - **Atividades extraclasse (30%):** leitura e discussão de artigos, laboratórios e simulações de ataques e defesas em ambientes controlados e relatórios sobre os seminários dos pares.
 - **Seminários temáticos e artigos (20%):** seminários sobre temas avançados ligados às linhas de pesquisa dos alunos e elaboração de um artigo acadêmico ou de revisão (8 a 15 páginas), com potencial para submissão em eventos ou periódicos.
 
-## Avaliação
+## 6. Avaliação
 
 A avaliação é contínua e formativa.
 
@@ -75,16 +70,16 @@ A avaliação é contínua e formativa.
 
 ---
 
-## Bibliografia
+## 7. Bibliografia
 
-### Básica
+### 7.1 Básica
 
 - STALLINGS, W. **Cryptography and Network Security: Principles and Practice.** 8. ed. Pearson, 2023.
 - STALLINGS, W. **Segurança de Computadores: Princípios e Práticas.** Pearson, 2012.
 - ANDERSON, R. **Security Engineering: A Guide to Building Dependable Distributed Systems.** 3. ed. Wiley, 2020.
 - CLARKE, R. A.; KNAKE, R. K. **O quinto domínio: a nova era da guerra cibernética.** Tradução de Rodrigo Abreu. São Paulo: Vestígio, 2020.
 
-### Complementar
+### 7.2 Complementar
 
 - PERLROTH, N. **É assim que me disseram que o mundo acaba: hackers, mercenários e governos na disputa pelo controle cibernético global.** Tradução de Clóvis Marques. São Paulo: Intrínseca, 2022.
 - KAPLAN, F. **Território sombrio: a história secreta da guerra cibernética.** Tradução de Geni Hirata. São Paulo: Vestígio, 2017.
@@ -96,6 +91,6 @@ A avaliação é contínua e formativa.
 
 ---
 
-## Uso de Inteligência Artificial
+## 8. Uso de Inteligência Artificial
 
 Declara-se que este material foi elaborado com apoio de ferramentas de inteligência artificial generativa (Claude, ChatGPT e Gemini), sob revisão e responsabilidade do professor.
