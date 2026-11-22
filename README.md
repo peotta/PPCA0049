@@ -6,7 +6,7 @@
 - **Disciplina:** PPCA0049 - Cibersegurança 1
 - **Professor responsável:** Prof. Dr. Laerte Peotta de Melo
 - **Semestre:** 2027.1
-- **Horário:** Sextas-feiras, das 17:00 às 19:00 (aulas de 2 horas), de 19/03/2027 a 16/07/2027
+- **Dia da aula:** Sextas-feiras, de 19/03/2027 a 16/07/2027
 - **Local:** A definir
 
 ---
