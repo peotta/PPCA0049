@@ -112,79 +112,84 @@ A avaliação é contínua e formativa.
 
 ### 7.3 Leituras das Aulas
 
-Os links levam às fontes originais (arXiv, DOI, sites das instituições e do Planalto). Alguns periódicos exigem acesso institucional, como o Portal de Periódicos CAPES. As cópias em PDF não são redistribuídas neste repositório por questões de direitos autorais.
+Os links levam às fontes originais (arXiv, DOI, sites das instituições e do Planalto). Alguns periódicos exigem acesso institucional, como o Portal de Periódicos CAPES. Cada leitura traz o link da fonte original e, quando há cópia de acesso aberto, o link para o PDF em `referencias/`; nas demais, o acesso é pela editora ou pela biblioteca.
 
-Leituras obrigatórias e complementares de cada aula. A Aula 10 retoma as leituras anteriores.
+Cada aula tem até três leituras ${\color{green}\textbf{[Principal]}}$, base da leitura guiada e da discussão; as demais são ${\color{CornflowerBlue}\textsf{[Complementar]}}$, para aprofundamento. A Aula 10 retoma as leituras anteriores.
 
 #### Aula 1 - Fundamentos, Método e Evidência
 
-- ANDERSON, R.; MOORE, T. The Economics of Information Security. **Science**, v. 314, n. 5799, p. 610-613, 2006. Disponível em: https://www.cl.cam.ac.uk/~rja14/Papers/econ_science.pdf
-- FLORÊNCIO, D.; HERLEY, C. Sex, Lies and Cyber-crime Surveys. In: **Economics of Information Security and Privacy III**. Springer, 2011, p. 35-53. Disponível em: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/SexLiesandCybercrimeSurveys.pdf
-- ANDERSON, R. et al. Measuring the Changing Cost of Cybercrime. **Workshop on the Economics of Information Security (WEIS)**, 2019. Disponível em: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_25.pdf
+- ${\color{green}\textbf{[Principal]}}$ ANDERSON, R.; MOORE, T. The Economics of Information Security. **Science**, v. 314, n. 5799, p. 610-613, 2006. Disponível em: https://www.cl.cam.ac.uk/~rja14/Papers/econ_science.pdf [`PDF`](referencias/aula01/2006_Economics_of_Information_Security.pdf)
+- ${\color{green}\textbf{[Principal]}}$ FLORÊNCIO, D.; HERLEY, C. Sex, Lies and Cyber-crime Surveys. In: **Economics of Information Security and Privacy III**. Springer, 2011, p. 35-53. Disponível em: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/SexLiesandCybercrimeSurveys.pdf [`PDF`](referencias/aula01/2011_Sex_Lies_and_Cybercrime_Surveys.pdf)
+- ${\color{green}\textbf{[Principal]}}$ ANDERSON, R. et al. Measuring the Changing Cost of Cybercrime. **Workshop on the Economics of Information Security (WEIS)**, 2019. Disponível em: https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_25.pdf [`PDF`](referencias/aula01/2019_Measuring_Changing_Cost_of_Cybercrime.pdf)
 
 #### Aula 2 - Cibercrime: Economia e Ecossistema
 
-- MOORE, T.; CLAYTON, R.; ANDERSON, R. The Economics of Online Crime. **Journal of Economic Perspectives**, v. 23, n. 3, p. 3-20, 2009. Disponível em: https://doi.org/10.1257/jep.23.3.3
-- BRASIL. Lei nº 14.155, de 27 de maio de 2021; Decreto nº 11.491, de 12 de abril de 2023 (Convenção de Budapeste). Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14155.htm e https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11491.htm
+- ${\color{green}\textbf{[Principal]}}$ MOORE, T.; CLAYTON, R.; ANDERSON, R. The Economics of Online Crime. **Journal of Economic Perspectives**, v. 23, n. 3, p. 3-20, 2009. Disponível em: https://doi.org/10.1257/jep.23.3.3 Download: acesso pela editora ou biblioteca.
+- ${\color{green}\textbf{[Principal]}}$ BRASIL. Lei nº 14.155, de 27 de maio de 2021; Decreto nº 11.491, de 12 de abril de 2023 (Convenção de Budapeste). Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14155.htm e https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11491.htm [`Lei 14.155`](referencias/aula02/2021_Lei_14155_Fraude_Eletronica.html) [`Decreto 11.491`](referencias/aula02/2023_Decreto_11491_Convencao_de_Budapeste.html)
 
 #### Aula 3 - Fraudes Digitais e Engenharia Social
 
-- BOLTON, R. J.; HAND, D. J. Statistical Fraud Detection: A Review. **Statistical Science**, v. 17, n. 3, p. 235-255, 2002. Disponível em: https://doi.org/10.1214/ss/1042727940
-- PHUA, C. et al. A Comprehensive Survey of Data Mining-based Fraud Detection Research. arXiv:1009.6119, 2010. Disponível em: https://arxiv.org/abs/1009.6119
-- CHESNEY, R.; CITRON, D. Deep Fakes: A Looming Challenge for Privacy, Democracy, and National Security. **California Law Review**, v. 107, 2019. Disponível em: https://papers.ssrn.com/abstract=3213954
+- ${\color{green}\textbf{[Principal]}}$ BOLTON, R. J.; HAND, D. J. Statistical Fraud Detection: A Review. **Statistical Science**, v. 17, n. 3, p. 235-255, 2002. Disponível em: https://doi.org/10.1214/ss/1042727940 Download: acesso pela editora ou biblioteca.
+- ${\color{green}\textbf{[Principal]}}$ PHUA, C. et al. A Comprehensive Survey of Data Mining-based Fraud Detection Research. arXiv:1009.6119, 2010. Disponível em: https://arxiv.org/abs/1009.6119 [`PDF`](referencias/aula03/2010_Data_Mining_Fraud_Detection_Survey.pdf)
+- ${\color{green}\textbf{[Principal]}}$ CHESNEY, R.; CITRON, D. Deep Fakes: A Looming Challenge for Privacy, Democracy, and National Security. **California Law Review**, v. 107, 2019. Disponível em: https://papers.ssrn.com/abstract=3213954 Download: acesso pela editora ou biblioteca.
 
 #### Aula 4 - Cyber Threat Intelligence (CTI)
 
-- HUTCHINS, E. M.; CLOPPERT, M. J.; AMIN, R. M. Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains. Lockheed Martin, 2011. Disponível em: https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
-- CALTAGIRONE, S.; PENDERGAST, A.; BETZ, C. The Diamond Model of Intrusion Analysis. Relatório técnico (DTIC ADA586960), 2013. Disponível em: https://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf
-- TOUNSI, W.; RAIS, H. A survey on technical threat intelligence in the age of sophisticated cyber attacks. **Computers & Security**, v. 72, p. 212-233, 2018. Disponível em: https://doi.org/10.1016/j.cose.2017.09.001
-- RID, T.; BUCHANAN, B. Attributing Cyber Attacks. **Journal of Strategic Studies**, v. 38, n. 1-2, p. 4-37, 2015. Disponível em: https://doi.org/10.1080/01402390.2014.977382
+- ${\color{green}\textbf{[Principal]}}$ HUTCHINS, E. M.; CLOPPERT, M. J.; AMIN, R. M. Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains. Lockheed Martin, 2011. Disponível em: https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf [`PDF`](referencias/aula04/2011_Intrusion_Kill_Chains.pdf)
+- ${\color{green}\textbf{[Principal]}}$ CALTAGIRONE, S.; PENDERGAST, A.; BETZ, C. The Diamond Model of Intrusion Analysis. Relatório técnico (DTIC ADA586960), 2013. Disponível em: https://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf [`PDF`](referencias/aula04/2013_Diamond_Model_of_Intrusion_Analysis.pdf)
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ TOUNSI, W.; RAIS, H. A survey on technical threat intelligence in the age of sophisticated cyber attacks. **Computers & Security**, v. 72, p. 212-233, 2018. Disponível em: https://doi.org/10.1016/j.cose.2017.09.001 Download: acesso pela editora ou biblioteca.
+- ${\color{green}\textbf{[Principal]}}$ RID, T.; BUCHANAN, B. Attributing Cyber Attacks. **Journal of Strategic Studies**, v. 38, n. 1-2, p. 4-37, 2015. Disponível em: https://doi.org/10.1080/01402390.2014.977382 Download: acesso pela editora ou biblioteca.
 
 #### Aula 5 - Guerra Cibernética: Conceitos e Casos
 
-- RID, T. Cyber War Will Not Take Place. **Journal of Strategic Studies**, v. 35, n. 1, p. 5-32, 2012. Disponível em: https://doi.org/10.1080/01402390.2011.608939
-- LINDSAY, J. R. Stuxnet and the Limits of Cyber Warfare. **Security Studies**, v. 22, n. 3, p. 365-404, 2013. Disponível em: https://doi.org/10.1080/09636412.2013.816122
-- SLAYTON, R. What Is the Cyber Offense-Defense Balance? Conceptions, Causes, and Assessment. **International Security**, v. 41, n. 3, p. 72-109, 2016/17. Disponível em: https://doi.org/10.1162/isec_a_00267
-- GREENBERG, A. The Untold Story of NotPetya, the Most Devastating Cyberattack in History. **Wired**, 22 ago. 2018. Disponível em: https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/
+- ${\color{green}\textbf{[Principal]}}$ RID, T. Cyber War Will Not Take Place. **Journal of Strategic Studies**, v. 35, n. 1, p. 5-32, 2012. Disponível em: https://doi.org/10.1080/01402390.2011.608939 Download: acesso pela editora ou biblioteca.
+- ${\color{green}\textbf{[Principal]}}$ LINDSAY, J. R. Stuxnet and the Limits of Cyber Warfare. **Security Studies**, v. 22, n. 3, p. 365-404, 2013. Disponível em: https://doi.org/10.1080/09636412.2013.816122 Download: acesso pela editora ou biblioteca.
+- ${\color{green}\textbf{[Principal]}}$ SLAYTON, R. What Is the Cyber Offense-Defense Balance? Conceptions, Causes, and Assessment. **International Security**, v. 41, n. 3, p. 72-109, 2016/17. Disponível em: https://doi.org/10.1162/isec_a_00267 Download: acesso pela editora ou biblioteca.
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ GREENBERG, A. The Untold Story of NotPetya, the Most Devastating Cyberattack in History. **Wired**, 22 ago. 2018. Disponível em: https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/ Download: acesso pela editora ou biblioteca.
 
 #### Aula 6 - Estratégia, Normas e Direito
 
-- BUCHANAN, B. **The Cybersecurity Dilemma: Hacking, Trust and Fear Between Nations.** Oxford University Press, 2017.
-- NYE, J. S. Deterrence and Dissuasion in Cyberspace. **International Security**, v. 41, n. 3, p. 44-71, 2016/17. Disponível em: https://doi.org/10.1162/ISEC_a_00266
-- FINNEMORE, M.; HOLLIS, D. B. Constructing Norms for Global Cybersecurity. **American Journal of International Law**, v. 110, n. 3, 2016. Versão de trabalho disponível em: https://iilj.org/wp-content/uploads/2017/01/Hollis-Finnemore-Constructing-Norms-for-Global-Cybersecurity.pdf
-- GARTZKE, E.; LINDSAY, J. R. Weaving Tangled Webs: Offense, Defense, and Deception in Cyberspace. **Security Studies**, v. 24, n. 2, p. 316-348, 2015. Disponível em: https://doi.org/10.1080/09636412.2015.1038188
-- SCHMITT, M. N. (ed.). **Tallinn Manual 2.0 on the International Law Applicable to Cyber Operations.** Cambridge University Press, 2017.
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ BUCHANAN, B. **The Cybersecurity Dilemma: Hacking, Trust and Fear Between Nations.** Oxford University Press, 2017. Download: acesso pela editora ou biblioteca.
+- ${\color{green}\textbf{[Principal]}}$ NYE, J. S. Deterrence and Dissuasion in Cyberspace. **International Security**, v. 41, n. 3, p. 44-71, 2016/17. Disponível em: https://doi.org/10.1162/ISEC_a_00266 [`PDF`](referencias/aula06/2016_Deterrence_and_Dissuasion_in_Cyberspace.pdf)
+- ${\color{green}\textbf{[Principal]}}$ FINNEMORE, M.; HOLLIS, D. B. Constructing Norms for Global Cybersecurity. **American Journal of International Law**, v. 110, n. 3, 2016. Versão de trabalho disponível em: https://iilj.org/wp-content/uploads/2017/01/Hollis-Finnemore-Constructing-Norms-for-Global-Cybersecurity.pdf [`PDF`](referencias/aula06/2016_Constructing_Norms_for_Global_Cybersecurity_versao_de_trabalho.pdf)
+- ${\color{green}\textbf{[Principal]}}$ GARTZKE, E.; LINDSAY, J. R. Weaving Tangled Webs: Offense, Defense, and Deception in Cyberspace. **Security Studies**, v. 24, n. 2, p. 316-348, 2015. Disponível em: https://doi.org/10.1080/09636412.2015.1038188 [`PDF`](referencias/aula06/2015_Weaving_Tangled_Webs.pdf)
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ SCHMITT, M. N. (ed.). **Tallinn Manual 2.0 on the International Law Applicable to Cyber Operations.** Cambridge University Press, 2017. Download: acesso pela editora ou biblioteca.
 
 #### Aula 7 - IA Ofensiva e Seleção de Agentes
 
-- FANG, R. et al. LLM Agents can Autonomously Exploit One-day Vulnerabilities. arXiv:2404.08144, 2024. Disponível em: https://arxiv.org/abs/2404.08144
-- ZHU, Y. et al. Teams of LLM Agents can Exploit Zero-Day Vulnerabilities. arXiv:2406.01637, 2024. Disponível em: https://arxiv.org/abs/2406.01637
-- HENDRYCKS, D. Natural Selection Favors AIs over Humans. arXiv:2303.16200, 2023. Disponível em: https://arxiv.org/abs/2303.16200
-- HENDRYCKS, D.; SCHMIDT, E.; WANG, A. Superintelligence Strategy. arXiv:2503.05628, 2025 (v1 resumida; v2: Expert Version). Disponível em: https://arxiv.org/abs/2503.05628
-- HENDRYCKS, D.; MAZEIKA, M.; WOODSIDE, T. An Overview of Catastrophic AI Risks. arXiv:2306.12001, 2023. Disponível em: https://arxiv.org/abs/2306.12001
-- BENGIO, Y. et al. International AI Safety Report. arXiv:2501.17805, 2025. Disponível em: https://arxiv.org/abs/2501.17805
-- BRUNDAGE, M. et al. The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation. arXiv:1802.07228, 2018. Disponível em: https://arxiv.org/abs/1802.07228
-- ANTHROPIC. Disrupting the first reported AI-orchestrated cyber espionage campaign, 2025. Disponível em: https://www.anthropic.com/news/disrupting-AI-espionage
-- ZETTER, K. **Countdown to Zero Day.** Crown, 2014.
+- ${\color{green}\textbf{[Principal]}}$ FANG, R. et al. LLM Agents can Autonomously Exploit One-day Vulnerabilities. arXiv:2404.08144, 2024. Disponível em: https://arxiv.org/abs/2404.08144 [`PDF`](referencias/aula07/2024_One-day_Vulnerabilities.pdf)
+- ${\color{green}\textbf{[Principal]}}$ ZHU, Y. et al. Teams of LLM Agents can Exploit Zero-Day Vulnerabilities. arXiv:2406.01637, 2024. Disponível em: https://arxiv.org/abs/2406.01637 [`PDF`](referencias/aula07/2024_Teams_of_LLM_Agents_Zero-Day.pdf)
+- ${\color{green}\textbf{[Principal]}}$ HENDRYCKS, D. Natural Selection Favors AIs over Humans. arXiv:2303.16200, 2023. Disponível em: https://arxiv.org/abs/2303.16200 [`PDF`](referencias/aula07/2023_Natural_Selection_Favors_AIs.pdf)
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ HENDRYCKS, D.; SCHMIDT, E.; WANG, A. Superintelligence Strategy. arXiv:2503.05628, 2025 (v1 resumida; v2: Expert Version). Disponível em: https://arxiv.org/abs/2503.05628 [`PDF`](referencias/aula07/2025_Superintelligence_Strategy.pdf)
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ BENGIO, Y. et al. International AI Safety Report. arXiv:2501.17805, 2025. Disponível em: https://arxiv.org/abs/2501.17805 [`PDF`](referencias/aula07/2025_International_AI_Safety_Report.pdf)
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ BRUNDAGE, M. et al. The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation. arXiv:1802.07228, 2018. Disponível em: https://arxiv.org/abs/1802.07228 [`PDF`](referencias/aula07/2018_Malicious_Use_of_AI.pdf)
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ ANTHROPIC. Disrupting the first reported AI-orchestrated cyber espionage campaign, 2025. Disponível em: https://www.anthropic.com/news/disrupting-AI-espionage [`PDF`](referencias/aula07/2025_Disrupting_AI_Orchestrated_Espionage.pdf)
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ ZETTER, K. **Countdown to Zero Day.** Crown, 2014. Download: acesso pela editora ou biblioteca.
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ AKKIL, D. et al. Emergence World: A Platform for Evaluating Long-Horizon Multi-Agent Autonomy. arXiv:2606.08367, 2026. Disponível em: https://arxiv.org/abs/2606.08367 [`PDF`](referencias/aula07/2026_Emergence_World.pdf)
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ PAOLO, G. et al. TerraLingua: Emergence and Analysis of Open-endedness in LLM Ecologies. arXiv:2603.16910, 2026. Disponível em: https://arxiv.org/abs/2603.16910 [`PDF`](referencias/aula07/2026_TerraLingua_Open-endedness_LLM_Ecologies.pdf)
 
 #### Aula 8 - Segurança da IA: Alvo, Defesa e Avaliação
 
-- VASSILEV, A. et al. Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations. NIST AI 100-2e2025. Disponível em: https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2025.pdf
-- GRESHAKE, K. et al. Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection. arXiv:2302.12173, 2023. Disponível em: https://arxiv.org/abs/2302.12173
-- PEREZ, F.; RIBEIRO, I. Ignore Previous Prompt: Attack Techniques For Language Models. arXiv:2211.09527, 2022. Disponível em: https://arxiv.org/abs/2211.09527
-- CARLINI, N. et al. Extracting Training Data from Large Language Models. **USENIX Security**, 2021; Poisoning Web-Scale Training Datasets is Practical. arXiv:2302.10149, 2023. Disponível em: https://arxiv.org/abs/2012.07805 e https://arxiv.org/abs/2302.10149
-- TRAMÈR, F. et al. Stealing Machine Learning Models via Prediction APIs. **USENIX Security**, 2016. Disponível em: https://arxiv.org/abs/1609.02943
-- GU, T.; DOLAN-GAVITT, B.; GARG, S. BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain. arXiv:1708.06733, 2017. Disponível em: https://arxiv.org/abs/1708.06733
-- ZOU, A. et al. Universal and Transferable Adversarial Attacks on Aligned Language Models. arXiv:2307.15043, 2023. Disponível em: https://arxiv.org/abs/2307.15043
-- ZHANG, A. K. et al. Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models. arXiv:2408.08926, 2024. Disponível em: https://arxiv.org/abs/2408.08926
-- PHUONG, M. et al. Evaluating Frontier Models for Dangerous Capabilities. arXiv:2403.13793, 2024. Disponível em: https://arxiv.org/abs/2403.13793
+- ${\color{green}\textbf{[Principal]}}$ VASSILEV, A. et al. Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations. NIST AI 100-2e2025. Disponível em: https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2025.pdf [`PDF`](referencias/aula08/2025_NIST_AI_100-2e2025_Adversarial_ML.pdf)
+- ${\color{green}\textbf{[Principal]}}$ GRESHAKE, K. et al. Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection. arXiv:2302.12173, 2023. Disponível em: https://arxiv.org/abs/2302.12173 [`PDF`](referencias/aula08/2023_Indirect_Prompt_Injection.pdf)
+- ${\color{green}\textbf{[Principal]}}$ NAKAMURA, M. et al. Colosseum: Auditing Collusion in Cooperative Multi-Agent Systems. arXiv:2602.15198, 2026. Disponível em: https://arxiv.org/abs/2602.15198 [`PDF`](referencias/aula08/2026_Colosseum_Auditing_Collusion.pdf)
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ PEREZ, F.; RIBEIRO, I. Ignore Previous Prompt: Attack Techniques For Language Models. arXiv:2211.09527, 2022. Disponível em: https://arxiv.org/abs/2211.09527 [`PDF`](referencias/aula08/2022_Ignore_Previous_Prompt.pdf)
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ CARLINI, N. et al. Extracting Training Data from Large Language Models. **USENIX Security**, 2021; Poisoning Web-Scale Training Datasets is Practical. arXiv:2302.10149, 2023. Disponível em: https://arxiv.org/abs/2012.07805 e https://arxiv.org/abs/2302.10149 [`PDF 2021`](referencias/aula08/2021_Extracting_Training_Data_from_LLMs.pdf) [`PDF 2023`](referencias/aula08/2023_Poisoning_Web-Scale_Datasets.pdf)
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ TRAMÈR, F. et al. Stealing Machine Learning Models via Prediction APIs. **USENIX Security**, 2016. Disponível em: https://arxiv.org/abs/1609.02943 [`PDF`](referencias/aula08/2016_Stealing_ML_Models.pdf)
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ GU, T.; DOLAN-GAVITT, B.; GARG, S. BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain. arXiv:1708.06733, 2017. Disponível em: https://arxiv.org/abs/1708.06733 [`PDF`](referencias/aula08/2017_BadNets.pdf)
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ ZOU, A. et al. Universal and Transferable Adversarial Attacks on Aligned Language Models. arXiv:2307.15043, 2023. Disponível em: https://arxiv.org/abs/2307.15043 [`PDF`](referencias/aula08/2023_Universal_Adversarial_Attacks_LLMs.pdf)
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ ZHANG, A. K. et al. Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models. arXiv:2408.08926, 2024. Disponível em: https://arxiv.org/abs/2408.08926 [`PDF`](referencias/aula08/2024_Cybench.pdf)
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ PHUONG, M. et al. Evaluating Frontier Models for Dangerous Capabilities. arXiv:2403.13793, 2024. Disponível em: https://arxiv.org/abs/2403.13793 [`PDF`](referencias/aula08/2024_Frontier_Models_Dangerous_Capabilities.pdf)
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ BLACK, S. et al. RepliBench: Evaluating the Autonomous Replication Capabilities of Language Model Agents. arXiv:2504.18565, 2025. Disponível em: https://arxiv.org/abs/2504.18565 [`PDF`](referencias/aula08/2025_RepliBench.pdf)
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ WANG, Z. et al. When Agents See Humans as the Outgroup: Belief-Dependent Bias in LLM-Powered Agents. arXiv:2601.00240, 2026. Disponível em: https://arxiv.org/abs/2601.00240 [`PDF`](referencias/aula08/2026_Agents_See_Humans_as_Outgroup.pdf)
 
 #### Aula 9 - Governança, Soberania e Brasil
 
-- SASTRY, G. et al. Computing Power and the Governance of AI. arXiv:2402.08797, 2024. Disponível em: https://arxiv.org/abs/2402.08797
-- KAPOOR, S. et al. On the Societal Impact of Open Foundation Models. arXiv:2403.07918, 2024. Disponível em: https://arxiv.org/abs/2403.07918
-- GOLDSTEIN, J. A. et al. Generative Language Models and Automated Influence Operations: Emerging Threats and Potential Mitigations. arXiv:2301.04246, 2023. Disponível em: https://arxiv.org/abs/2301.04246
-- BRASIL. Lei nº 13.709/2018 (LGPD); Lei nº 14.155/2021; Decreto nº 11.856/2023 (Política Nacional de Cibersegurança); Decreto nº 12.573, de 4 de agosto de 2025 (Estratégia Nacional de Cibersegurança). Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm; https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14155.htm; https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11856.htm; https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12573.htm
+- ${\color{green}\textbf{[Principal]}}$ SASTRY, G. et al. Computing Power and the Governance of AI. arXiv:2402.08797, 2024. Disponível em: https://arxiv.org/abs/2402.08797 [`PDF`](referencias/aula09/2024_Computing_Power_and_AI_Governance.pdf)
+- ${\color{green}\textbf{[Principal]}}$ KAPOOR, S. et al. On the Societal Impact of Open Foundation Models. arXiv:2403.07918, 2024. Disponível em: https://arxiv.org/abs/2403.07918 [`PDF`](referencias/aula09/2024_Open_Foundation_Models.pdf)
+- ${\color{green}\textbf{[Principal]}}$ GOLDSTEIN, J. A. et al. Generative Language Models and Automated Influence Operations: Emerging Threats and Potential Mitigations. arXiv:2301.04246, 2023. Disponível em: https://arxiv.org/abs/2301.04246 [`PDF`](referencias/aula09/2023_LLM_Influence_Operations.pdf)
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ BRASIL. Lei nº 13.709/2018 (LGPD); Lei nº 14.155/2021; Decreto nº 11.856/2023 (Política Nacional de Cibersegurança); Decreto nº 12.573, de 4 de agosto de 2025 (Estratégia Nacional de Cibersegurança). Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm; https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14155.htm; https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/d11856.htm; https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12573.htm [`LGPD`](referencias/aula03/2018_Lei_13709_LGPD.html) [`Lei 14.155`](referencias/aula02/2021_Lei_14155_Fraude_Eletronica.html) [`Decreto 11.856`](referencias/aula09/2023_Decreto_11856_Politica_Nacional_Ciberseguranca.html) [`Decreto 12.573`](referencias/aula09/2025_Decreto_12573_Estrategia_Nacional_Ciberseguranca.html)
+- ${\color{CornflowerBlue}\textsf{[Complementar]}}$ HADFIELD, G. K.; KOH, A. An Economy of AI Agents. arXiv:2509.01063, 2025. Disponível em: https://arxiv.org/abs/2509.01063 [`PDF`](referencias/aula09/2025_Economy_of_AI_Agents.pdf)
 
 ---
 
